@@ -31,7 +31,7 @@ header {
 .heading {
   float: left;
   font-size: 35px;
-  color: #FF7F00;
+  color: rgb(255, 127, 0);
   font-family: 'Changa', sans-serif;
 }
 
